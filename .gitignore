@@ -1,0 +1,7 @@
+# IntelliJ Project Files #
+*.iml
+.idea
+build
+
+# Logs #
+*.log
